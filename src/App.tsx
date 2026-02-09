@@ -13,6 +13,9 @@ function App(): React.JSX.Element {
             </p>
             <p>
                 FRANK MURPHY has entered the chat.
+                <br />
+                Hello World. Frank is here. Time to program with React and
+                TypeScript.
             </p>
         </div>
     );
