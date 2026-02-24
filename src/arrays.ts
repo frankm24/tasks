@@ -113,6 +113,5 @@ export function injectPositive(values: number[]): number[] {
 
     const new_values: number[] = [...values];
     new_values.splice(first_negative + 1, 0, sum);
-    console.log(new_values);
     return new_values;
 }
